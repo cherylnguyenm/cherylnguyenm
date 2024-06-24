@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h2><code style="color : blue">Skills</code></h2>
 <ul>
   <li>💻 Programming Languages: R, Python, C++, SQL, JavaScript</li>
-  <li>🌐 Web Technologies: Front End (HTML5, CSS3, Bootstrap, React.js, Angular), Back End (RESTful APIs, Django)</ul>li>
+  <li>🌐 Web Technologies: Front End (HTML5, CSS3, Bootstrap, React.js, Angular), Back End (RESTful APIs, Django)</li>
   <li>🗄️ Databases: Hadoop, Spark, MongoDB, SQLite, MySQL, ClickHouse, Grafana</li>
   <li>🛠️ Tools & Platforms: Unix/Linux, Git, GitHub, Jupyter Notebook, Visual Studio, Bash, MOS Excel</li>
 </ul>
