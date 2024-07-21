@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Cheryl! 👋
 
 <!--
 **cherylnguyenm/cherylnguyenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GIF] (https://i.pinimg.com/originals/ea/ca/32/eaca323b5d9110b3c053c041a827afb5.gif)
 
 <h2><code style="color : blue">About me</code></h2>
 <ul>
