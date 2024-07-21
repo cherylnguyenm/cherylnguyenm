@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <li>🎧 Music lover</li>
 </ul>
 
-![Cheryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylnguyenm&show_icons=true&theme=synthwave)
+
 
 ![image](https://github.com/user-attachments/assets/201ea2aa-adec-4656-8876-1cdc80260817)
 
