@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <li>📊 Former Data Engineer Intern at VNPT - Media</li>
   <li>🎓 Junior Computer Science and Communication double major at Denison University</li>
   <li>🏫 Incoming Off-campus Study student at University of Technology, Sydney</li>
-  <li>🖥️ Currently focusing on Back End Development (Django, REST APIs)</li>
+  <li>🖥️ Currently focusing on Back End Development (Django, Django REST Framework)</li>
   <li>🤝 Looking to collaborate on web application projects that drive social change</li>
   <li>🌍 Advocate social inclusion, equity, and connectedness</li>
   <li>🔍 Looking for SWE Intern roles for Summer 2025</li>
