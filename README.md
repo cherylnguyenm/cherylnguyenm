@@ -1,4 +1,4 @@
-## Hi I'm Cheryl! 👋
+## ༘⋆🌷🫧💭₊˚ෆ I dream to code and code to dream  ༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚
 
 <!--
 **cherylnguyenm/cherylnguyenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
