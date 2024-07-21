@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GIF] (https://i.pinimg.com/originals/ea/ca/32/eaca323b5d9110b3c053c041a827afb5.gif)
+![image](https://github.com/user-attachments/assets/a5bc2c56-b2cf-491a-b0a3-8681b7448b19)
+
 
 <h2><code style="color : blue">About me</code></h2>
 <ul>
