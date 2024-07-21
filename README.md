@@ -47,7 +47,5 @@ Here are some ideas to get you started:
 
 
 
-![image](https://github.com/user-attachments/assets/201ea2aa-adec-4656-8876-1cdc80260817)
-
 
 
