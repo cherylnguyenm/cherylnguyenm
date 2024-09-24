@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <h2><code style="color : blue">About me</code></h2>
 <ul>
-  <li>💻 Software Engineer Intern at FPT Software</li>
+  <li>💻 Former Software Engineer Intern at FPT Software</li>
   <li>📊 Former Data Engineer Intern at VNPT - Media</li>
   <li>🎓 Junior Computer Science and Communication double major at Denison University</li>
   <li>🏫 Incoming Off-campus Study student at University of Technology, Sydney</li>
-  <li>🖥️ Currently focusing on Back End Development (Django, Django REST Framework)</li>
+  <li>🖥️ Currently focusing on Back End Development (Node.js, Django, Django REST Framework)</li>
   <li>🤝 Looking to collaborate on web application projects that drive social change</li>
   <li>🌍 Advocate social inclusion, equity, and connectedness</li>
   <li>🔍 Looking for SWE Intern roles for Summer 2025</li>
@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 <h2><code style="color : blue">Skills</code></h2>
 <ul>
   <li>💻 Programming Languages: R, Python, C++, SQL, JavaScript</li>
-  <li>🌐 Web Technologies: Front End (HTML5, CSS3, Bootstrap, React.js, Angular), Back End (RESTful APIs, Django)</li>
-  <li>🗄️ Databases: Hadoop, Spark, MongoDB, SQLite, MySQL, ClickHouse, Grafana</li>
-  <li>🛠️ Tools & Platforms: Unix/Linux, Git, GitHub, Jupyter Notebook, Visual Studio, Bash, MOS Excel</li>
+  <li>🌐 Back End Technologies: Django, Django REST Framework, Node.js, REST APIs, Firebase</li>
+  <li>🌐 Front End Technologies: HTML5, CSS3, Bootstrap, React.js, Next.js</li>
+  <li>🗄️ Databases: Hadoop, Spark, MongoDB, PostgreSQL, SQLite, MySQL, ClickHouse, Grafana</li>
+  <li>🛠️ Tools & Platforms: Unix/Linux, Git, GitLab, Visual Studio, Bash, Google Test, pytest, Jenkins, UML, Agile (Scrum), MOS Excel</li>
 </ul>
 
 <h2><code style="color : blue">Interests</code></h2>
