@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <h2><code style="color : blue">About me</code></h2>
 <ul>
   <li>💻 Former Software Engineer Intern at FPT Software</li>
-  <li>📊 Former Data Engineer Intern at VNPT - Media</li>
+  <li>📊 Former Data Engineer Intern at Vietnam Posts & Telecommunications Group - Media Software</li>
   <li>🎓 Junior Computer Science and Communication double major at Denison University</li>
-  <li>🏫 Incoming Off-campus Study student at University of Technology, Sydney</li>
   <li>🖥️ Currently focusing on Back End Development (Node.js, Django, Django REST Framework)</li>
   <li>🤝 Looking to collaborate on web application projects that drive social change</li>
   <li>🌍 Advocate social inclusion, equity, and connectedness</li>
@@ -32,11 +31,9 @@ Here are some ideas to get you started:
 
 <h2><code style="color : blue">Skills</code></h2>
 <ul>
-  <li>💻 Programming Languages: R, Python, C++, SQL, JavaScript</li>
-  <li>🌐 Back End Technologies: Django, Django REST Framework, Node.js, REST APIs, Firebase</li>
-  <li>🌐 Front End Technologies: HTML5, CSS3, Bootstrap, React.js, Next.js</li>
-  <li>🗄️ Databases: Hadoop, Spark, MongoDB, PostgreSQL, SQLite, MySQL, ClickHouse, Grafana</li>
-  <li>🛠️ Tools & Platforms: Unix/Linux, Git, GitLab, Visual Studio, Bash, Google Test, pytest, Jenkins, UML, Agile (Scrum), MOS Excel</li>
+  <li>💻 Languages: Python, C/C++, SQL (MySQL, Postgres), JavaScript, HTML/CSS, R, UML</li>
+  <li>🌐 Frameworks: Node.js, Express.js, Django, React, Bootstrap, Hadoop, Spark</li>
+  <li>🛠️ Tools & Platforms: Linux, Git, GitLab, GitHub Actions, Docker, Vercel, AWS, MongoDB, VS Code, Visual Studio, Google Test, PyTest, Jenkins, Firebase, Railway, npm, Scrum (Agile), Excel</li>
 </ul>
 
 <h2><code style="color : blue">Interests</code></h2>
